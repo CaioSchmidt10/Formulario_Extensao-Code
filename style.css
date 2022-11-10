@@ -1,0 +1,60 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background:#e6e6e6;
+}
+
+h1{
+	font-size: 2.5em;
+}
+
+p{
+	font-size: 1.2em;
+	font-family: serif;
+}
+
+#area-cabecalho{
+	text-align: center;
+	background: black;
+	padding: 15px;
+}
+
+#area-titulo{
+	padding: 15px;
+}
+
+#area-principal{
+	width: 800px;
+	margin: 0 auto;
+	background: #FFF;
+	margin-top: 10px;
+}
+
+#formulario{
+	padding: 15px;
+}
+
+.border{
+	padding: 5px;
+	border-bottom: 1px solid #f4f4f4;
+}
+
+#rodape{
+	background: #CCC;
+	text-align: center;
+	width: 800px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+#logo{
+	width: 800px;
+	margin: 0 auto;
+	margin-top: 20px;
+	text-align: center;
+}
